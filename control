@@ -1,0 +1,9 @@
+Package: com.example.depthlock
+Name: DepthLock
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Efek depth wallpaper Lock Screen ala iOS 16 untuk perangkat tanpa dukungan bawaan
+Maintainer: you
+Author: you
+Section: Tweaks
+Depends: firmware (>= 15.0)
